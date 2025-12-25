@@ -45,3 +45,4 @@ Main_1 Project (1).xlsx – Contains the complete salary dashboard calculator
 🚀 Outcome
 
 This project demonstrates practical skills in Excel-based data analysis, dashboard creation, and converting raw data into actionable business insights.
+<img width="2744" height="1342" alt="image" src="https://github.com/user-attachments/assets/6cae104c-f790-4464-acea-dd825e3a98ed" />
